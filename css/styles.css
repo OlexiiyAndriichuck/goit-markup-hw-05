@@ -665,7 +665,7 @@ button:focus {
 }
 
 .footer-input::placeholder {
-    color #ffffff; 
+    color: #ffffff; 
 }
 /*==== /PAGE FOOTER/ =====*/
 
@@ -905,7 +905,7 @@ button:focus {
   .review-form-own-checkbox {
   background-color: #404bbf;
   border: none;
-  fill: #FFFFFF;
+  fill:  #F4F4FD;
   }
  
 
